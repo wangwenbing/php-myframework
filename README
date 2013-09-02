@@ -1,0 +1,35 @@
+1.All PHP class file, must be named as "classname.class.php";
+
+2.Please add your functions into CLASSES_PATH/Helper.class.php with "public static ...";
+
+3.Your controller class file must be name as "c_xxx.class.php";
+
+4.Your model class file must be name as "m_xxx.class.php";
+
+5.URL is like:HTTP_URL/?m=xxx&c=xxx&a=xxx OR HTTP_URL/?c=xxx&a=xxx;
+
+6.Please check my codes for more, enjoy it, thanks.
+
+:)
+
+一些优点:
+
+1.正宗的MVC;
+
+2.单一入口;
+
+3.SESSION可自定义;
+
+4.灵活的类自动加载;
+
+5.路由可静态,支持_remap();
+
+6.页面可缓存;
+
+7.易用的用户权限控制模块;
+
+8.自己写的常用类和函数,如:分页,加解密,DB-Mysqli,随机字符串,文件上传等等;
+
+9.加入了大量开源的第三方类,如:CURL,导出Excel,Mailer,phpFastCache,phpQuery等等;
+
+10.多年PHP开发经验,热爱程序开发,我会一直更新和维护这些代码.
